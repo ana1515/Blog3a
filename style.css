@@ -1,0 +1,67 @@
+.navname{
+margin-left: 40px;
+
+}
+
+.bgcolor {
+background-color: #9b76b346;
+
+}
+
+.padding{
+ 
+}
+
+.colorbk {
+background-color: #fdfdfd;
+
+
+}
+
+.tituloconfig {
+    color: #baa9d5;
+    text-align:inherit;
+}
+
+.imgslide{
+    width: 250px;
+    height: 500px;
+    margin: auto;
+}
+.knewave-regular {
+    font-family: "Knewave", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .indie-flower-regular {
+    font-family: "Indie Flower", serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .clformer {
+   
+  }
+  .pdcro{
+    padding-top:40px ; 
+    padding-bottom: 200px;
+   
+  }
+  .letter{
+    font-size: 18px;
+    text-align:inherit;
+    padding-right:60px;
+    padding-left: 60px ;
+    width: 100%;
+    text-align: center;
+    
+  }
+  .bkfx{
+
+    background-color: #f4ede4;
+  }
+
+  .pdresolve {
+    padding-top: 80px;
+    padding-bottom: 15px;
+    
+  }
